@@ -13,7 +13,7 @@ module.exports = {
         transparent: "transparent",
         neutral: '#363636',
         primary: {
-          DEFAULT: "#FFF1CF80",
+          DEFAULT: "#0B8749",
           100: "#FFF1CF",
           200: "#ffe7b0",
           300: "#ffdb88",
