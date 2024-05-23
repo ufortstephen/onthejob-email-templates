@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "dev": "maizzle serve",
-    "build": "maizzle build production"
+    "dev": "node api.js && maizzle serve",
+    "build": "node api.js && maizzle build production"
   },
   "dependencies": {
     "@maizzle/framework": "latest",
